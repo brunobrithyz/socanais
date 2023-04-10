@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://suatv.fun:80/get.php?username=fullconectchannel&password=wkol218035pla26&type=m3u_plus", "validity": "23/04/2038", "success": true, "notifications": "LucSons" }
+{ "epg": "http://acstatic.co/epg/epg.xml","list":"http://suatv.fun:80/get.php?username=fullconectchannel&password=wkol218035pla26&type=m3u_plus", "validity": "23/04/2038", "success": true, "notifications": "LucSons" }
