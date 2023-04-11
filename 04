@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://ucsxiptv.com:8080/get.php?username=seven_line&password=teleg9523574534rtuu63&type=m3u_plus", "validity": "ilimitada", "success": true, "notifications": "LucSons", "title": "LcFilho" }
+{ "epg": "http://ucsxiptv.com:8080/xmltv.php?username=seven_line&password=teleg9523574534rtuu63&type=m3u_plus","list":"http://ucsxiptv.com:8080/get.php?username=seven_line&password=teleg9523574534rtuu63&type=m3u_plus", "validity": "ilimitada", "success": true, "notifications": "LucSons", "title": "LcFilho" }
